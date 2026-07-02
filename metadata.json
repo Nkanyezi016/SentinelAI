@@ -1,0 +1,6 @@
+{
+  "name": "SentinelAI",
+  "description": "An AI-powered South African infrastructure theft monitoring hub using multi-sensor fusion, citizen reporting, and closest-security routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
